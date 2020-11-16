@@ -25,9 +25,10 @@
 
 <p align="left">
   HTML, CSS, JavaScript, Node js, Java, Phyton, MySQL, MongoDB 
-<p align="left">
+</p>
   
 <h3 align="left">
   Social media :love_letter:
 </h3>
+
 [![linkedin](https://i.ibb.co/GCTcBjk/linkedin2.png)](https://www.linkedin.com/in/fabianalimasugamele/)
