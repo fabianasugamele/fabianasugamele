@@ -1,30 +1,27 @@
 
 
-# Hey, I'm Fabiana :blush:
+# <Hello, :wave:/> 
 
 <p align="left">
-  
-:pencil: Studying IT Management </br>
-:pencil: Currently learning front-end (HTML, CSS, JavaScript, Angular) and back-end (Node.js, Java, Python)
+Eu sou a Fabiana, </p>
+<p>
+:pencil: Graduanda em Gestão da Tecnologia da Informação </br>
+:woman_technologist: Estudando Front-end (HTML, CSS, JavaScript, Angular) e Back-end (Node.js, Java, Python)
 
- 
-
- 💘 Programming
 </p>
 
 <h3 align="left">
-  Skills :computer:
+  Skills:
 </h3>
 
 <p align="left">
  :rocket: HTML | CSS | JavaScript | Node.js | Java | Phyton | MySQL | MongoDB 
 </p>
   
-<h3 align="left">
-  Social media :love_letter:
-</h3>
+:mailbox:
 
-[![linkedin](https://i.ibb.co/GCTcBjk/linkedin2.png)](https://www.linkedin.com/in/fabianalimasugamele/)
+[![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/fabianalimasugamele)
+ 
 <center>
 <table>
   <tr>
