@@ -4,12 +4,12 @@
 
 <p align="left">
   
-  - :pencil: Studying management in information technology
-  - :pencil: Currently learning front-end (HTML, CSS, JavaScript, Angular) and back-end (Node.js, Java, Python)
+:pencil: Studying management in information technology </br>
+:pencil: Currently learning front-end (HTML, CSS, JavaScript, Angular) and back-end (Node.js, Java, Python)
 
  
 
-  💘 Programming
+ 💘 Programming
 </p>
 
 <h3 align="left">
