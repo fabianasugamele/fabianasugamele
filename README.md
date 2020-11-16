@@ -4,7 +4,7 @@
 
 <p align="left">
   
-:pencil: Studying management in information technology </br>
+:pencil: Studying IT Management </br>
 :pencil: Currently learning front-end (HTML, CSS, JavaScript, Angular) and back-end (Node.js, Java, Python)
 
  
