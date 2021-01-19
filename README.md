@@ -6,17 +6,12 @@
 Eu sou a Fabiana, </p>
 <p>
 :pencil: Graduanda em Gestão da Tecnologia da Informação </br>
-:woman_technologist: Estudando Front-end (HTML, CSS, JavaScript, Angular) e Back-end (Node.js, Java, Python)
+:woman_technologist: Estudando Front-end (HTML, CSS, JavaScript, Angular) e Back-end (Node.js, C#, .Net, Python)
 
 </p>
 
 <h3 align="left">
-  Skills:
-</h3>
 
-<p align="left">
- :rocket: HTML | CSS | JavaScript | Node.js | Java | Phyton | MySQL | MongoDB 
-</p>
   
 :mailbox:
 
