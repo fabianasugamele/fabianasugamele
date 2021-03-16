@@ -20,7 +20,7 @@ Eu sou a Fabiana, </p>
 <center>
 <table>
   <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabiSugamele&hide=html&layout=compact&theme=buefy" /></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabiSugamele&langs_count=7&hide=html&layout=compact&theme=buefy" /></td>
       <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=FabiSugamele&show_icons=true&theme=buefy" /></td>
   </tr>     
 </table>
