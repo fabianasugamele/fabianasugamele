@@ -6,7 +6,7 @@
 Eu sou a Fabiana, </p>
 <p>
 :pencil: Graduanda em Gestão da Tecnologia da Informação </br>
-:woman_technologist: Estudando Front-end (HTML, CSS, JavaScript, Angular) e Back-end (Node.js, C#, .Net, Python)
+:woman_technologist: Estudando Front-end (HTML, CSS, JavaScript, Angular) e Back-end (Java, C#, .Net, Python)
 
 </p>
 
