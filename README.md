@@ -5,7 +5,7 @@
 <p align="left">
 Eu sou a Fabiana, </p>
 <p>
-:pencil: Graduada em Gestão da Tecnologia da Informação e nesse momento graduanda em Engenharia da computação :computer: </br>
+:pencil: Graduada em Gestão da Tecnologia da Informação e nesse momento graduanda em Ciência de Dados :computer: </br>
 :woman_technologist: Atuo com desenvolvimento Back-end (Java) e nas horas vagas estudo Python
 
 </p>
